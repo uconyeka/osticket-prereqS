@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Web Server: Apache or IIS
+- PHP Versions
+- osTicket 1.15 Series: 7.2 to 7.4, 7.4 is recommended
+- osTicket 1.16 Series: 8.0 is required.
+- MySQL Database: 5.5.
 
 <h2>Installation Steps</h2>
 
